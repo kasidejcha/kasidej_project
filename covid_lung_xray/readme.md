@@ -1,1 +1,3 @@
-Objective: train custom conv2d on covid datasetAccuracy on test set: 0.92
+Objective: train custom conv2d on covid lung x-ray dataset
+
+Accuracy on test set: 0.92
