@@ -1,0 +1,1 @@
+Objective: train custom conv2d on covid datasetAccuracy on test set: 0.92
