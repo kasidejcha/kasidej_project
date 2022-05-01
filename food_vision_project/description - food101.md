@@ -1,0 +1,1 @@
+Objective: Train & Fine-tune transfer learning model on Food101 datasetTransfer learning model: efficientnetb0Accuracy on test set: 0.80
