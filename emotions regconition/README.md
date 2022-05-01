@@ -1,0 +1,1 @@
+Objective: emotion recognition based on textsInput data: https://www.kaggle.com/parulpandey/emotion-dataset5 models:- Baseline (TF-IDF): accuracy 0.641- Conv1D: accuracy 0.899 ----> best model- LSTM: accuracy 0.837- Transfer learning with universal sentence encoder (USE): accuracy 0.796- Transfer learning with nnlm: accuracy 0.864
